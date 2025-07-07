@@ -67,4 +67,14 @@ steam_project/
 
 - python src/main.py
 
+## Outputs
+
+- Cleaned data is saved in cleaned_data/.
+- EDA plots are generated in cleaned_data/ (e.g., price_distribution.png).
+- Machine learning artifacts (trained models, plots) are saved in ml_output/ and ml_output_improved/.
+- Model performance metrics are printed to console and plots are saved automatically.
+
+## Contact
+
+- For questions or feedback, please open an issue or contact me at Musaborhan27 on GitHub.
 
