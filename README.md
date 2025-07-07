@@ -47,8 +47,7 @@ steam_project/
 1. **Clone this repo:**
 
    ```bash
-   git clone https://github.com/YourUsername/Steam-Sales-Data-Analysis-and-Prediction.git
-   cd Steam-Sales-Data-Analysis-and-Prediction
+   git clone https://github.com/Musaborhan27/Steam-Sales-Data-Analysis-and-Prediction.git
 
 2. **Create a virtual environment:
 
